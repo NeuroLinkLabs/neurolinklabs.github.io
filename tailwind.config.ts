@@ -52,6 +52,20 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				'neuro-green': {
+					DEFAULT: 'hsl(var(--neuro-green))',
+					light: 'hsl(var(--neuro-green-light))',
+					dark: 'hsl(var(--neuro-green-dark))'
+				},
+				'neuro-bg': {
+					primary: 'hsl(var(--neuro-bg-primary))',
+					secondary: 'hsl(var(--neuro-bg-secondary))',
+					tertiary: 'hsl(var(--neuro-bg-tertiary))'
+				},
+				'neuro-text': {
+					primary: 'hsl(var(--neuro-text-primary))',
+					secondary: 'hsl(var(--neuro-text-secondary))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
